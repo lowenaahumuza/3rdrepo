@@ -1,0 +1,3 @@
+/Users/relworx/CLionProjects/untitledif/cmake-build-debug/CMakeFiles/untitledif.dir
+/Users/relworx/CLionProjects/untitledif/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/relworx/CLionProjects/untitledif/cmake-build-debug/CMakeFiles/rebuild_cache.dir
